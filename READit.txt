@@ -1,21 +1,25 @@
 Clubber.
 +---scripts
-¦   +---admin
-¦   ¦   +---function
-¦   ¦   +---template
-¦   ¦   +---utility
-¦   +---club - admin
-¦   ¦   +---function
-¦   ¦   +---template
-¦   ¦   +---utility
-¦   +---home
-¦   ¦   +---function
-¦   ¦   +---template
-¦   ¦   +---utility
-¦   +---Member
-¦       +---function
-¦       +---template
-¦       +---utility
+Â¦   +---admin
+Â¦   Â¦   +---function
+Â¦   Â¦   +---template
+Â¦   Â¦   +---utility
+Â¦   Â¦   +---pages
+Â¦   +---club - admin
+Â¦   Â¦   +---function
+Â¦   Â¦   +---template
+Â¦   Â¦   +---utility
+Â¦   Â¦   +---pages
+Â¦   +---home
+Â¦   Â¦   +---function
+Â¦   Â¦   +---template
+Â¦   Â¦   +---utility
+Â¦   Â¦   +---pages
+Â¦   +---Member
+Â¦       +---function
+Â¦       +---template
+Â¦       +---utility
+Â¦       +---pages
 +---static
     +---css
     +---image
